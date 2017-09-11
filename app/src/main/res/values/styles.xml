@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--<style name="Theme.AppCompat.NoActionBar">-->
+        <!--<item name="windowActionBar">false</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppBarTheme" parent="ThemeOverlay.AppCompat.Light">-->
+        <!--<item name="actionDropDownStyle">@style/AppBaseToolBarMenuDropDownStyle</item>-->
+        <!--<item name="actionOverflowMenuStyle">@style/AppBaseToolbarOverflowMenuStyle</item>-->
+        <!--&lt;!&ndash;菜单颜色&ndash;&gt;-->
+        <!--<item name="android:textColor">@android:color/white</item>-->
+        <!--&lt;!&ndash;溢出菜单按钮（ActionBar溢出菜单，即最后一个按钮）&ndash;&gt;-->
+        <!--<item name="actionOverflowButtonStyle">@style/AppBaseToolbarOverflowButtonStyle</item>-->
+    <!--</style>-->
+    <!--<style name="AppBaseToolBarMenuDropDownStyle" parent="@style/Base.Widget.AppCompat.Spinner.DropDown.ActionBar">-->
+        <!--<item name="overlapAnchor">false</item>-->
+        <!--<item name="android:popupBackground">@color/material_deep_teal_500</item>-->
+        <!--<item name="android:dropDownHorizontalOffset">-4dip</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppBaseToolbarOverflowMenuStyle" parent="@style/Widget.AppCompat.Light.PopupMenu.Overflow">-->
+        <!--<item name="overlapAnchor">false</item>-->
+        <!--<item name="android:popupBackground">@color/material_deep_teal_500</item>-->
+        <!--&lt;!&ndash;ActionBar Menu颜色&ndash;&gt;-->
+        <!--<item name="android:textColorPrimary">@android:color/white</item>-->
+    <!--</style>-->
+    <!--<style name="AppBaseToolbarOverflowButtonStyle" parent="@style/Widget.AppCompat.Light.ActionButton.Overflow">-->
+        <!--<item name="android:src">@drawable/abc_ic_menu_moreoverflow_mtrl_alpha</item>-->
+    <!--</style>-->
+</resources>
